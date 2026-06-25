@@ -205,6 +205,85 @@ Data Science / AI
 
 ---
 
+
+## 🧰 Software, Tools & Technologies
+
+<h3 align="center">📊 Data Analytics & BI Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+</p>
+
+<h3 align="center">🐍 Programming & Data Libraries</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="55"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<h3 align="center">🗄️ Database & Query Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<h3 align="center">⚙️ Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" height="55"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+<h3 align="center">🎨 Design & Presentation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 My Core Skill Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-00C9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-92FE9D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboard%20Design-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Insights-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Analysis-025E8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel%20Analytics-217346?style=for-the-badge"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
 </p>
